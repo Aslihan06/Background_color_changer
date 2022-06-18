@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: 'Dancing Script', cursive;
+}
+h1{
+    font-size: 5rem;
+}
+h3{
+    margin: 15rem;
+}
+
+.container{
+    padding-top: 4.5rem;
+    margin: auto;
+    text-align: center;
+}
+.btn{
+    margin-top: 2rem;
+    text-align: center;
+    padding: 1rem;
+    font-size: 4rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: #00B3AD;
+    box-shadow: 0 0 5px #00B3AD,
+    0 0 25px #00B3AD, 0 0 50px #00B3AD,
+    0 0 200px #00B3AD;
+    -webkit-box-reflect:below 1px
+    linear-gradient(transparent, #0005) ;
+    color: white;
+}
